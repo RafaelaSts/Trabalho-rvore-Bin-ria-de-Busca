@@ -102,4 +102,7 @@ Autor(a)
 Rafaela Santos do Nascimento
 Victoria Sabriny 
 
+
+Vídeo: https://youtu.be/HTlN-1wrRMc
+
 Trabalho de Estruturas de Dados
